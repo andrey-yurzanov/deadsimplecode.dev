@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Алгоритм Чайкина</title>
+</head>
+
+<body>
+  <canvas id="canvas" width="500" height="300" style="border: 1px solid black;"></canvas>
+  <script src="chaikin.js"></script>
+  <script>
+    const points = [
+      { x: 100, y: 100 },
+      { x: 200, y: 100 },
+      { x: 200, y: 200 },
+      { x: 300, y: 200 },
+      { x: 300, y: 100 },
+      { x: 400, y: 100 }
+    ]
+    drawCurve(points, 3)
+  </script>
+</body>
+
+</html>
