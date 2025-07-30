@@ -13,3 +13,5 @@ Code examples from website - [deadsimplecode.dev](https://deadsimplecode.dev).
 /kmp/src - code examples of article: [Алгоритм Кнута-Морриса-Пратта](https://deadsimplecode.dev/kmp.html)
 <br/>
 /chaikin/src - code examples of article: [Алгоритм Чайкина](https://deadsimplecode.dev/chaikin.html)
+<br/>
+/hashtable/src - code examples of article: [Хеш-таблица](https://deadsimplecode.dev/hashtable.html)
